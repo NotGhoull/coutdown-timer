@@ -1,0 +1,5 @@
+Ver 1.0.0
+==================
+Date: 15/02/2022
+
+[+] Added start function

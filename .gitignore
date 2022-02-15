@@ -1,0 +1,4 @@
+**/dist
+**/countdown.egg-info
+/MANIFEST.in
+/setup.py
