@@ -1,4 +1,4 @@
-from classes.countdown import CountdownHandler
+from src.countdown.countdown import CountdownHandler
 
 time = input("Enter the time for the countdown to wait: ")
 shouldsfx = input("Should the countdown play a sound? (y/n): ")

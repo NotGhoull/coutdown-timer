@@ -1,4 +1,5 @@
 **/dist
 **/countdown.egg-info
 /MANIFEST.in
-/setup.py
+/setup.cfg
+/pyproject.toml
