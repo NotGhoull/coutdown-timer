@@ -7,12 +7,6 @@ Note: Please send feedback for things that I should change/add
 
 ---
 
-## Installation
-
-`pip install package`
-
----
-
 ## Code example
 
 ### How to import the library
